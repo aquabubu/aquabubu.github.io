@@ -53,12 +53,16 @@
       "path---vi-라로슈포제-9298deb8ce99c2905236.js.map"
     ],
     "path---en-baby": [
-      "path---en-baby-fc3a875dc4e53b69f7eb.js",
-      "path---en-baby-fc3a875dc4e53b69f7eb.js.map"
+      "path---en-baby-227c3ffb7b883fac469f.js",
+      "path---en-baby-227c3ffb7b883fac469f.js.map"
     ],
     "path---en-han-quoc": [
       "path---en-han-quoc-15942c5cf1791056d971.js",
       "path---en-han-quoc-15942c5cf1791056d971.js.map"
+    ],
+    "path---en-baby-lotion": [
+      "path---en-baby-lotion-60f3a19c2b4d9c7147b6.js",
+      "path---en-baby-lotion-60f3a19c2b4d9c7147b6.js.map"
     ],
     "path---en-hongkong-tips": [
       "path---en-hongkong-tips-91914e344ae19b31a144.js",
@@ -289,8 +293,8 @@
       "path---en-jjigae-21fff23c998966c3ac80.js.map"
     ],
     "path---en-mang-thai": [
-      "path---en-mang-thai-fbc6f4b1ddfd1b9d9c11.js",
-      "path---en-mang-thai-fbc6f4b1ddfd1b9d9c11.js.map"
+      "path---en-mang-thai-6a58e0a0ad4353109dac.js",
+      "path---en-mang-thai-6a58e0a0ad4353109dac.js.map"
     ],
     "path---vi-windyhill": [
       "path---vi-windyhill-e36594747a990c990f75.js",
@@ -388,6 +392,10 @@
       "path---vi-an-gi-17bb84751cbac793bf8a.js",
       "path---vi-an-gi-17bb84751cbac793bf8a.js.map"
     ],
+    "path---en-baby-wet-tissue": [
+      "path---en-baby-wet-tissue-f278dd7187e438a81734.js",
+      "path---en-baby-wet-tissue-f278dd7187e438a81734.js.map"
+    ],
     "path---vi-review-innisfree-soybean-energy-essence": [
       "path---vi-review-innisfree-soybean-energy-essence-34913789349f0690e7e7.js",
       "path---vi-review-innisfree-soybean-energy-essence-34913789349f0690e7e7.js.map"
@@ -411,6 +419,10 @@
     "path---en-hong-kong-trip": [
       "path---en-hong-kong-trip-460bf05432df3d0cb489.js",
       "path---en-hong-kong-trip-460bf05432df3d0cb489.js.map"
+    ],
+    "path---en-sua-tam-goi-cho-be": [
+      "path---en-sua-tam-goi-cho-be-ef6b3cb4e5d73eb9a2aa.js",
+      "path---en-sua-tam-goi-cho-be-ef6b3cb4e5d73eb9a2aa.js.map"
     ],
     "path---vi-what-to-eat-in-hanoi": [
       "path---vi-what-to-eat-in-hanoi-a932fe1bac8cec6033d4.js",
@@ -491,6 +503,10 @@
     "path---vi-air-cusion": [
       "path---vi-air-cusion-dfce1d3215c2c4fca890.js",
       "path---vi-air-cusion-dfce1d3215c2c4fca890.js.map"
+    ],
+    "path---en-baby-clothes": [
+      "path---en-baby-clothes-d4ddee86864bd39feaa9.js",
+      "path---en-baby-clothes-d4ddee86864bd39feaa9.js.map"
     ],
     "path---vi-bottle-feeding": [
       "path---vi-bottle-feeding-dab32b49f804aaa11a9f.js",
@@ -624,6 +640,10 @@
       "path---en-bokkeumbab-a41695bfb21fc3596141.js",
       "path---en-bokkeumbab-a41695bfb21fc3596141.js.map"
     ],
+    "path---en-pregnancy-checklist-part-2": [
+      "path---en-pregnancy-checklist-part-2-2c5ca000840a1505e19c.js",
+      "path---en-pregnancy-checklist-part-2-2c5ca000840a1505e19c.js.map"
+    ],
     "path---en-base-makeup": [
       "path---en-base-makeup-c9ff05a3ffb724cc7c3f.js",
       "path---en-base-makeup-c9ff05a3ffb724cc7c3f.js.map"
@@ -733,8 +753,8 @@
       "path---vi-normal-vagina-delivery-09539b702264aa1671cd.js.map"
     ],
     "path---en-me-bau": [
-      "path---en-me-bau-48654702879b3a3a027e.js",
-      "path---en-me-bau-48654702879b3a3a027e.js.map"
+      "path---en-me-bau-14c2a232f4221222f20d.js",
+      "path---en-me-bau-14c2a232f4221222f20d.js.map"
     ],
     "path---en-madametussauds": [
       "path---en-madametussauds-67866c01a5872acc941c.js",
@@ -1087,8 +1107,8 @@
       "path---en-hongkong-2ddff81b26468045db70.js.map"
     ],
     "path---vi-pregnancy-checklist-part-2": [
-      "path---vi-pregnancy-checklist-part-2-7238390be4a6a52a4eda.js",
-      "path---vi-pregnancy-checklist-part-2-7238390be4a6a52a4eda.js.map"
+      "path---vi-pregnancy-checklist-part-2-5bcac76246ded317af0b.js",
+      "path---vi-pregnancy-checklist-part-2-5bcac76246ded317af0b.js.map"
     ],
     "path---en-pregnancy-checklist-part-1": [
       "path---en-pregnancy-checklist-part-1-d66f6b37d7be064bb0f6.js",
@@ -1201,6 +1221,10 @@
     "path---en-kyoto": [
       "path---en-kyoto-1c3c2db101d87ac5b889.js",
       "path---en-kyoto-1c3c2db101d87ac5b889.js.map"
+    ],
+    "path---en-pregnancy-checklist": [
+      "path---en-pregnancy-checklist-b24d7ff52caa4d4d8df9.js",
+      "path---en-pregnancy-checklist-b24d7ff52caa4d4d8df9.js.map"
     ],
     "path---vi-mang-thai": [
       "path---vi-mang-thai-af544e6695d33b306743.js",
@@ -1335,8 +1359,8 @@
       "path---en-tidal-island-9914fd4f23c8ace51473.js.map"
     ],
     "path---en-vat-dung-can-thiet": [
-      "path---en-vat-dung-can-thiet-40846968f8c8828cd879.js",
-      "path---en-vat-dung-can-thiet-40846968f8c8828cd879.js.map"
+      "path---en-vat-dung-can-thiet-afdce2648e6a63575126.js",
+      "path---en-vat-dung-can-thiet-afdce2648e6a63575126.js.map"
     ],
     "path---en-mat-na-moi": [
       "path---en-mat-na-moi-b89fcb84945cbd5c09bf.js",
@@ -1387,9 +1411,9 @@
       "path---vi-thermometer-fba4389a4c31d40c5dec.js.map"
     ],
     "app": [
-      "app-3e52dd9e28f078e237b8.js",
+      "app-8251c43391ae60bb9451.js",
       "build-js-styles.css",
-      "app-3e52dd9e28f078e237b8.js.map",
+      "app-8251c43391ae60bb9451.js.map",
       "build-js-styles.css.map"
     ],
     "path---vi-cac-giai-doan-mang-thai": [
@@ -1407,6 +1431,10 @@
     "path---vi-japan-travel": [
       "path---vi-japan-travel-bd7d44fe39e7230ce967.js",
       "path---vi-japan-travel-bd7d44fe39e7230ce967.js.map"
+    ],
+    "path---en-be-yeu": [
+      "path---en-be-yeu-04120ee5a3ed0fbd2e4d.js",
+      "path---en-be-yeu-04120ee5a3ed0fbd2e4d.js.map"
     ],
     "path---vi-korea-travel-famous-theme-park-everland": [
       "path---vi-korea-travel-famous-theme-park-everland-e84f3cfdad82852c4474.js",
@@ -1443,6 +1471,10 @@
     "path---vi-theme-park": [
       "path---vi-theme-park-378cef7e84602ff18170.js",
       "path---vi-theme-park-378cef7e84602ff18170.js.map"
+    ],
+    "path---en-diaper": [
+      "path---en-diaper-0d0888a948aa642bc69c.js",
+      "path---en-diaper-0d0888a948aa642bc69c.js.map"
     ],
     "path---vi-inari-taisha": [
       "path---vi-inari-taisha-d181afe312147bb90ee3.js",
@@ -1503,6 +1535,10 @@
     "path---vi-태국": [
       "path---vi-태국-c8ad691bdcbfb4489870.js",
       "path---vi-태국-c8ad691bdcbfb4489870.js.map"
+    ],
+    "path---en-baby-bath-shampoo": [
+      "path---en-baby-bath-shampoo-9ceb4ca8478c6f6bcb45.js",
+      "path---en-baby-bath-shampoo-9ceb4ca8478c6f6bcb45.js.map"
     ],
     "path---en-review-innisfree-mineral-essential-concealer-spf-30": [
       "path---en-review-innisfree-mineral-essential-concealer-spf-30-7e3e1679d5283ea23208.js",
