@@ -317,8 +317,8 @@
       "path---en-du-lich-khi-mang-thai-2564cad1c8208b449b00.js.map"
     ],
     "component---src-pages-about-vi-js": [
-      "component---src-pages-about-vi-js-183b39c3dadc29ccc40e.js",
-      "component---src-pages-about-vi-js-183b39c3dadc29ccc40e.js.map"
+      "component---src-pages-about-vi-js-9563c68053b2077309a0.js",
+      "component---src-pages-about-vi-js-9563c68053b2077309a0.js.map"
     ],
     "path---vi-den-tho": [
       "path---vi-den-tho-10bf4f6b4c1ac5242048.js",
@@ -681,8 +681,8 @@
       "path---vi-japan-3dbf97204a9d857c45da.js.map"
     ],
     "component---src-pages-index-vi-js": [
-      "component---src-pages-index-vi-js-387206aa564ed8fcfc91.js",
-      "component---src-pages-index-vi-js-387206aa564ed8fcfc91.js.map"
+      "component---src-pages-index-vi-js-cbcfcc6f1cc3bfa0f43b.js",
+      "component---src-pages-index-vi-js-cbcfcc6f1cc3bfa0f43b.js.map"
     ],
     "path---en-sample": [
       "path---en-sample-b27edb646bb1d9bba427.js",
@@ -701,8 +701,8 @@
       "path---vi-samgyetang-ba3a24afe1c4822351d7.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-0996c80cfbae5db0318b.js",
-      "component---src-layouts-index-js-0996c80cfbae5db0318b.js.map"
+      "component---src-layouts-index-js-4f5ba3d05fd15a247060.js",
+      "component---src-layouts-index-js-4f5ba3d05fd15a247060.js.map"
     ],
     "path---en-korea-travel-famous-theme-park-everland": [
       "path---en-korea-travel-famous-theme-park-everland-075f274f8cf3b8ebc006.js",
@@ -1017,9 +1017,9 @@
       "path---vi-review-laneige-water-sleeping-mask-fd6bf18e800194419e3e.js.map"
     ],
     "commons": [
-      "commons-6473f4baabc271282128.js",
+      "commons-1f66b54d720c9316678e.js",
       "build-js-styles.css",
-      "commons-6473f4baabc271282128.js.map",
+      "commons-1f66b54d720c9316678e.js.map",
       "build-js-styles.css.map"
     ],
     "path---vi-seoul": [
@@ -1059,8 +1059,8 @@
       "path---vi-kemocsen-9ee3e5d8840cb1648e2e.js.map"
     ],
     "component---src-pages-index-en-js": [
-      "component---src-pages-index-en-js-ffd485b244a24faf5efc.js",
-      "component---src-pages-index-en-js-ffd485b244a24faf5efc.js.map"
+      "component---src-pages-index-en-js-27c08976ace0ac43c8c3.js",
+      "component---src-pages-index-en-js-27c08976ace0ac43c8c3.js.map"
     ],
     "path---vi-black-pebble-beach": [
       "path---vi-black-pebble-beach-dbf1a17c994688916469.js",
@@ -1203,8 +1203,8 @@
       "path---vi-나라사슴공원-be7a583bbc2da2fa59df.js.map"
     ],
     "component---src-templates-post-js": [
-      "component---src-templates-post-js-1a1ce81bf85ad49e7a06.js",
-      "component---src-templates-post-js-1a1ce81bf85ad49e7a06.js.map"
+      "component---src-templates-post-js-660edd104f07d71b1d83.js",
+      "component---src-templates-post-js-660edd104f07d71b1d83.js.map"
     ],
     "path---vi-madametussauds": [
       "path---vi-madametussauds-b75fc6aef9e68e3dde7c.js",
@@ -1411,9 +1411,9 @@
       "path---vi-thermometer-fba4389a4c31d40c5dec.js.map"
     ],
     "app": [
-      "app-8251c43391ae60bb9451.js",
+      "app-2b47cd4a334a7b6a5327.js",
       "build-js-styles.css",
-      "app-8251c43391ae60bb9451.js.map",
+      "app-2b47cd4a334a7b6a5327.js.map",
       "build-js-styles.css.map"
     ],
     "path---vi-cac-giai-doan-mang-thai": [
