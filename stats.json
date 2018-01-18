@@ -37,8 +37,8 @@
       "path---vi-peeling-0317ac3de6791a385ae5.js.map"
     ],
     "path---vi-what-to-eat": [
-      "path---vi-what-to-eat-0609484cd25e88d1c302.js",
-      "path---vi-what-to-eat-0609484cd25e88d1c302.js.map"
+      "path---vi-what-to-eat-8882ca1335e42db5461c.js",
+      "path---vi-what-to-eat-8882ca1335e42db5461c.js.map"
     ],
     "path---vi-bangkok": [
       "path---vi-bangkok-5158b32c5a102f1a0940.js",
@@ -77,8 +77,8 @@
       "component---src-pages-index-js-3943520d4daad738523d.js.map"
     ],
     "path---en-am-thuc": [
-      "path---en-am-thuc-e2741cc0873b1600a922.js",
-      "path---en-am-thuc-e2741cc0873b1600a922.js.map"
+      "path---en-am-thuc-83cf41b09bf5bf742933.js",
+      "path---en-am-thuc-83cf41b09bf5bf742933.js.map"
     ],
     "path---vi-baby": [
       "path---vi-baby-bfda70a801f33b30d6b5.js",
@@ -93,8 +93,8 @@
       "path---vi-essence-1987d2a86bde331439a0.js.map"
     ],
     "path---vi-nhat-ban": [
-      "path---vi-nhat-ban-2634a26e3fe13f6813c7.js",
-      "path---vi-nhat-ban-2634a26e3fe13f6813c7.js.map"
+      "path---vi-nhat-ban-ad6cd412c3e2ec617ef8.js",
+      "path---vi-nhat-ban-ad6cd412c3e2ec617ef8.js.map"
     ],
     "path---vi-bun-cha-obama": [
       "path---vi-bun-cha-obama-6218801d39685675059d.js",
@@ -113,12 +113,12 @@
       "path---en-essence-87c483d0d55ba11e837e.js.map"
     ],
     "path---vi-cuisine": [
-      "path---vi-cuisine-4180dac6453fa3bbbe06.js",
-      "path---vi-cuisine-4180dac6453fa3bbbe06.js.map"
+      "path---vi-cuisine-03c3d8f932dea1c66f4a.js",
+      "path---vi-cuisine-03c3d8f932dea1c66f4a.js.map"
     ],
     "path---en-japan": [
-      "path---en-japan-1409d415f71f3d967fd2.js",
-      "path---en-japan-1409d415f71f3d967fd2.js.map"
+      "path---en-japan-1c3c657e8c8658641d72.js",
+      "path---en-japan-1c3c657e8c8658641d72.js.map"
     ],
     "path---vi-han-quoc": [
       "path---vi-han-quoc-9da7b5bc1f9c5217d890.js",
@@ -129,8 +129,8 @@
       "path---en-mang-thai-282bbdfbb1715b35a921.js.map"
     ],
     "path---en-cuisine": [
-      "path---en-cuisine-ad92d1ac8cf1d7d28191.js",
-      "path---en-cuisine-ad92d1ac8cf1d7d28191.js.map"
+      "path---en-cuisine-343e837a48f2e2ecf142.js",
+      "path---en-cuisine-343e837a48f2e2ecf142.js.map"
     ],
     "path---vi-iope": [
       "path---vi-iope-8d20d51769a81285410b.js",
@@ -161,8 +161,8 @@
       "path---en-du-lich-993fa68870e144dfe9ea.js.map"
     ],
     "path---vi-am-thuc": [
-      "path---vi-am-thuc-43d9dc7c139490a737df.js",
-      "path---vi-am-thuc-43d9dc7c139490a737df.js.map"
+      "path---vi-am-thuc-827aab0367349e67c321.js",
+      "path---vi-am-thuc-827aab0367349e67c321.js.map"
     ],
     "path---en-what-to-do": [
       "path---en-what-to-do-de4afa5ec1a9423a7706.js",
@@ -277,8 +277,8 @@
       "path---en-korean-cuisine-part-1-188a2810011b03536992.js.map"
     ],
     "path---vi-japan": [
-      "path---vi-japan-b4b3c934970817891055.js",
-      "path---vi-japan-b4b3c934970817891055.js.map"
+      "path---vi-japan-96ea49f551ade5d65929.js",
+      "path---vi-japan-96ea49f551ade5d65929.js.map"
     ],
     "component---src-pages-index-vi-js": [
       "component---src-pages-index-vi-js-cbcfcc6f1cc3bfa0f43b.js",
@@ -361,8 +361,8 @@
       "path---en-review-hatomugi-skin-lotion-e3e520effa74c5e6f214.js.map"
     ],
     "path---en-what-to-eat": [
-      "path---en-what-to-eat-41ae82bd46a06c6553da.js",
-      "path---en-what-to-eat-41ae82bd46a06c6553da.js.map"
+      "path---en-what-to-eat-fdab3a1ecbe03de1d2f9.js",
+      "path---en-what-to-eat-fdab3a1ecbe03de1d2f9.js.map"
     ],
     "path---vi-pregnant": [
       "path---vi-pregnant-f42aa121eeea092fc8b7.js",
@@ -415,6 +415,10 @@
     "path---en-sample-post": [
       "path---en-sample-post-b5628047511a2918895b.js",
       "path---en-sample-post-b5628047511a2918895b.js.map"
+    ],
+    "path---en-japanese-cuisine-part-2": [
+      "path---en-japanese-cuisine-part-2-9583220eafc567ed1276.js",
+      "path---en-japanese-cuisine-part-2-9583220eafc567ed1276.js.map"
     ],
     "path---en-seoul": [
       "path---en-seoul-53d7fe8c15393fa1afb7.js",
@@ -543,8 +547,8 @@
       "path---en-my-pham-725f2a86841aea585dcb.js.map"
     ],
     "path---en-nhat-ban": [
-      "path---en-nhat-ban-fa61942ea5dcedd64535.js",
-      "path---en-nhat-ban-fa61942ea5dcedd64535.js.map"
+      "path---en-nhat-ban-3a2a972623041e254c8f.js",
+      "path---en-nhat-ban-3a2a972623041e254c8f.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -599,10 +603,14 @@
       "path---en-hong-kong-travel-df16330079a5110b4dec.js.map"
     ],
     "app": [
-      "app-b7238a20b4fe90c74634.js",
+      "app-a767fc4b41ee0b033865.js",
       "build-js-styles.css",
-      "app-b7238a20b4fe90c74634.js.map",
+      "app-a767fc4b41ee0b033865.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---vi-japanese-cuisine-part-2": [
+      "path---vi-japanese-cuisine-part-2-ba6f23e77d301a7ea1da.js",
+      "path---vi-japanese-cuisine-part-2-ba6f23e77d301a7ea1da.js.map"
     ],
     "path---vi-mi-pham": [
       "path---vi-mi-pham-c98f29ee2c4cce4fb984.js",

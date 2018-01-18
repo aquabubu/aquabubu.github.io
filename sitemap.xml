@@ -58,6 +58,8 @@
 <url> <loc>https://aquabubu.com/vi/Japanese-cuisine-Part-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/Hong-Kong-travel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/Hong-Kong-travel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/en/Japanese-cuisine-Part-2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/vi/Japanese-cuisine-Part-2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/travel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/bangkok/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/place-to-go/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -170,8 +172,8 @@
 <url> <loc>https://aquabubu.com/en/mon-ngon/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/offline-plugin-app-shell-fallback/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/en/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://aquabubu.com/en/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
