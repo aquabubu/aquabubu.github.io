@@ -244,10 +244,6 @@
       "path---vi-korea-travel-geoje-island-4a767ce43518eb571e0c.js",
       "path---vi-korea-travel-geoje-island-4a767ce43518eb571e0c.js.map"
     ],
-    "component---src-pages-404-en-js": [
-      "component---src-pages-404-en-js-5108b42fb57429a9ee8b.js",
-      "component---src-pages-404-en-js-5108b42fb57429a9ee8b.js.map"
-    ],
     "path---vi-makeup": [
       "path---vi-makeup-a6e9218865a2bd91cd18.js",
       "path---vi-makeup-a6e9218865a2bd91cd18.js.map"
@@ -323,10 +319,6 @@
     "path---vi-innisfree": [
       "path---vi-innisfree-8f995db5eb7b0c6bbdfb.js",
       "path---vi-innisfree-8f995db5eb7b0c6bbdfb.js.map"
-    ],
-    "path---en-404": [
-      "path---en-404-b9d96cc6a185ee52f554.js",
-      "path---en-404-b9d96cc6a185ee52f554.js.map"
     ],
     "path---vi-kinh-nghiem-du-lich": [
       "path---vi-kinh-nghiem-du-lich-e4c244d2ac76ec943eb1.js",
@@ -443,6 +435,10 @@
     "path---en-review-laneige-water-sleeping-mask": [
       "path---en-review-laneige-water-sleeping-mask-29703b3a5bbc5f916660.js",
       "path---en-review-laneige-water-sleeping-mask-29703b3a5bbc5f916660.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-44f21e517b3333572c5d.js",
+      "component---src-pages-404-js-44f21e517b3333572c5d.js.map"
     ],
     "path---vi-about": [
       "path---vi-about-33a2a4e78603e96c6dcd.js",
@@ -611,9 +607,9 @@
       "path---en-hong-kong-travel-df16330079a5110b4dec.js.map"
     ],
     "app": [
-      "app-0e70177de935f7ac1dfc.js",
+      "app-b0a197b3427b9449a556.js",
       "build-js-styles.css",
-      "app-0e70177de935f7ac1dfc.js.map",
+      "app-b0a197b3427b9449a556.js.map",
       "build-js-styles.css.map"
     ],
     "path---vi-japanese-cuisine-part-2": [
@@ -675,6 +671,10 @@
     "path---en": [
       "path---en-cb7552daa6da55e7c330.js",
       "path---en-cb7552daa6da55e7c330.js.map"
+    ],
+    "path---404": [
+      "path---404-9afb230f4d1be55068f6.js",
+      "path---404-9afb230f4d1be55068f6.js.map"
     ],
     "path---en-review-innisfree-mineral-essential-concealer-spf-30": [
       "path---en-review-innisfree-mineral-essential-concealer-spf-30-46964ef0873227173fd7.js",
