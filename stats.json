@@ -244,6 +244,10 @@
       "path---vi-korea-travel-geoje-island-4a767ce43518eb571e0c.js",
       "path---vi-korea-travel-geoje-island-4a767ce43518eb571e0c.js.map"
     ],
+    "component---src-pages-404-en-js": [
+      "component---src-pages-404-en-js-5108b42fb57429a9ee8b.js",
+      "component---src-pages-404-en-js-5108b42fb57429a9ee8b.js.map"
+    ],
     "path---vi-makeup": [
       "path---vi-makeup-a6e9218865a2bd91cd18.js",
       "path---vi-makeup-a6e9218865a2bd91cd18.js.map"
@@ -319,6 +323,10 @@
     "path---vi-innisfree": [
       "path---vi-innisfree-8f995db5eb7b0c6bbdfb.js",
       "path---vi-innisfree-8f995db5eb7b0c6bbdfb.js.map"
+    ],
+    "path---en-404": [
+      "path---en-404-b9d96cc6a185ee52f554.js",
+      "path---en-404-b9d96cc6a185ee52f554.js.map"
     ],
     "path---vi-kinh-nghiem-du-lich": [
       "path---vi-kinh-nghiem-du-lich-e4c244d2ac76ec943eb1.js",
@@ -603,9 +611,9 @@
       "path---en-hong-kong-travel-df16330079a5110b4dec.js.map"
     ],
     "app": [
-      "app-a767fc4b41ee0b033865.js",
+      "app-0e70177de935f7ac1dfc.js",
       "build-js-styles.css",
-      "app-a767fc4b41ee0b033865.js.map",
+      "app-0e70177de935f7ac1dfc.js.map",
       "build-js-styles.css.map"
     ],
     "path---vi-japanese-cuisine-part-2": [
