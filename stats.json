@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---vi-skincare": [
-      "path---vi-skincare-3e3cf36dfe99b1d29ee2.js",
-      "path---vi-skincare-3e3cf36dfe99b1d29ee2.js.map"
+      "path---vi-skincare-222f0d191cce2459d922.js",
+      "path---vi-skincare-222f0d191cce2459d922.js.map"
     ],
     "path---vi-what-to-do": [
       "path---vi-what-to-do-d4a60533f46625d86e5e.js",
@@ -11,6 +11,10 @@
     "path---vi-vietnamese-cuisine-in-the-northern": [
       "path---vi-vietnamese-cuisine-in-the-northern-8c9fc823cd0f59322d19.js",
       "path---vi-vietnamese-cuisine-in-the-northern-8c9fc823cd0f59322d19.js.map"
+    ],
+    "path---vi-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser": [
+      "path---vi-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser-acb1b2a7efcee43fc093.js",
+      "path---vi-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser-acb1b2a7efcee43fc093.js.map"
     ],
     "path---en-baby": [
       "path---en-baby-1f125cf7c2a58c3081e2.js",
@@ -45,8 +49,8 @@
       "path---vi-bangkok-5158b32c5a102f1a0940.js.map"
     ],
     "path---vi-place-to-go": [
-      "path---vi-place-to-go-7cbb0d3e2e1c2a232374.js",
-      "path---vi-place-to-go-7cbb0d3e2e1c2a232374.js.map"
+      "path---vi-place-to-go-d2fc7b04b1298c4608d3.js",
+      "path---vi-place-to-go-d2fc7b04b1298c4608d3.js.map"
     ],
     "path---vi-duong-da": [
       "path---vi-duong-da-9d7d19603019b1461920.js",
@@ -72,6 +76,10 @@
       "path---en-mon-ngon-dcc13bd29dab9fa1ae23.js",
       "path---en-mon-ngon-dcc13bd29dab9fa1ae23.js.map"
     ],
+    "path---vi-facial-brush": [
+      "path---vi-facial-brush-bbb53dd03126862a2e74.js",
+      "path---vi-facial-brush-bbb53dd03126862a2e74.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-3943520d4daad738523d.js",
       "component---src-pages-index-js-3943520d4daad738523d.js.map"
@@ -93,12 +101,20 @@
       "path---vi-essence-1987d2a86bde331439a0.js.map"
     ],
     "path---vi-nhat-ban": [
-      "path---vi-nhat-ban-ad6cd412c3e2ec617ef8.js",
-      "path---vi-nhat-ban-ad6cd412c3e2ec617ef8.js.map"
+      "path---vi-nhat-ban-ba257f69d1576d0c31d8.js",
+      "path---vi-nhat-ban-ba257f69d1576d0c31d8.js.map"
     ],
     "path---vi-bun-cha-obama": [
       "path---vi-bun-cha-obama-6218801d39685675059d.js",
       "path---vi-bun-cha-obama-6218801d39685675059d.js.map"
+    ],
+    "path---vi-may-rua-mat": [
+      "path---vi-may-rua-mat-47d0c914d0056a6239cf.js",
+      "path---vi-may-rua-mat-47d0c914d0056a6239cf.js.map"
+    ],
+    "path---en-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser": [
+      "path---en-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser-9463741bac601b907e55.js",
+      "path---en-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser-9463741bac601b907e55.js.map"
     ],
     "path---en-iope": [
       "path---en-iope-e2e502a7697f4b1cef89.js",
@@ -117,8 +133,8 @@
       "path---vi-cuisine-03c3d8f932dea1c66f4a.js.map"
     ],
     "path---en-japan": [
-      "path---en-japan-1c3c657e8c8658641d72.js",
-      "path---en-japan-1c3c657e8c8658641d72.js.map"
+      "path---en-japan-6bc67854116bcdbd5cf4.js",
+      "path---en-japan-6bc67854116bcdbd5cf4.js.map"
     ],
     "path---vi-han-quoc": [
       "path---vi-han-quoc-9da7b5bc1f9c5217d890.js",
@@ -141,24 +157,24 @@
       "component---src-pages-about-vi-js-9563c68053b2077309a0.js.map"
     ],
     "path---vi-hong-kong-traveling-tips": [
-      "path---vi-hong-kong-traveling-tips-2ec0f0aac46fa0e5dbea.js",
-      "path---vi-hong-kong-traveling-tips-2ec0f0aac46fa0e5dbea.js.map"
+      "path---vi-hong-kong-traveling-tips-361533dd9eb3a49f2430.js",
+      "path---vi-hong-kong-traveling-tips-361533dd9eb3a49f2430.js.map"
     ],
     "path---en-life-after-birthing": [
       "path---en-life-after-birthing-68c6b5a09a76ca7baa43.js",
       "path---en-life-after-birthing-68c6b5a09a76ca7baa43.js.map"
     ],
     "path---en-skincare": [
-      "path---en-skincare-ab9323b8067f7f7163df.js",
-      "path---en-skincare-ab9323b8067f7f7163df.js.map"
+      "path---en-skincare-adff81ac58f99fb89d9d.js",
+      "path---en-skincare-adff81ac58f99fb89d9d.js.map"
     ],
     "path---": [
       "path----57eca46ca606bd242226.js",
       "path----57eca46ca606bd242226.js.map"
     ],
     "path---en-du-lich": [
-      "path---en-du-lich-993fa68870e144dfe9ea.js",
-      "path---en-du-lich-993fa68870e144dfe9ea.js.map"
+      "path---en-du-lich-7080d7d61373ed673ed5.js",
+      "path---en-du-lich-7080d7d61373ed673ed5.js.map"
     ],
     "path---vi-am-thuc": [
       "path---vi-am-thuc-827aab0367349e67c321.js",
@@ -177,8 +193,8 @@
       "path---vi-review-innisfree-soybean-energy-essence-87b718df01e63b79af48.js.map"
     ],
     "path---en-japan-travel-nara-deer-park": [
-      "path---en-japan-travel-nara-deer-park-5d4d7dae9d536bdf4412.js",
-      "path---en-japan-travel-nara-deer-park-5d4d7dae9d536bdf4412.js.map"
+      "path---en-japan-travel-nara-deer-park-7d7880ed46cd779aeef6.js",
+      "path---en-japan-travel-nara-deer-park-7d7880ed46cd779aeef6.js.map"
     ],
     "path---vi-review-hatomugi-skin-lotion": [
       "path---vi-review-hatomugi-skin-lotion-159e56e95325abc523b8.js",
@@ -205,8 +221,12 @@
       "path---vi-life-after-birthing-5d891bddd0803c190bf1.js.map"
     ],
     "path---vi-travel": [
-      "path---vi-travel-f21505ccd5885e9cece4.js",
-      "path---vi-travel-f21505ccd5885e9cece4.js.map"
+      "path---vi-travel-486e5cbb0325652a7ccc.js",
+      "path---vi-travel-486e5cbb0325652a7ccc.js.map"
+    ],
+    "path---en-cleanser": [
+      "path---en-cleanser-fa0c24da1b1d6d111adf.js",
+      "path---en-cleanser-fa0c24da1b1d6d111adf.js.map"
     ],
     "path---en-toner": [
       "path---en-toner-032c4c484fd670377568.js",
@@ -225,8 +245,8 @@
       "path---en-mi-pham-c48682e8fc8e8e791427.js.map"
     ],
     "path---en-travel": [
-      "path---en-travel-237c0bbc5cbcea7595db.js",
-      "path---en-travel-237c0bbc5cbcea7595db.js.map"
+      "path---en-travel-cec8978131ed929a2448.js",
+      "path---en-travel-cec8978131ed929a2448.js.map"
     ],
     "path---en-vietnamese-cuisine-in-the-northern": [
       "path---en-vietnamese-cuisine-in-the-northern-c9e96e8c74ea5d48e464.js",
@@ -257,16 +277,16 @@
       "path---vi-traveling-tips-8cd4c9b28a6ed5da4566.js.map"
     ],
     "path---en-pregnancy-checklist-part-2": [
-      "path---en-pregnancy-checklist-part-2-c2362c1c3eaafb934259.js",
-      "path---en-pregnancy-checklist-part-2-c2362c1c3eaafb934259.js.map"
+      "path---en-pregnancy-checklist-part-2-dee6c1b5f978ff118b20.js",
+      "path---en-pregnancy-checklist-part-2-dee6c1b5f978ff118b20.js.map"
     ],
     "path---en-review-the-skin-house-wrinkle-snail-system-cream": [
       "path---en-review-the-skin-house-wrinkle-snail-system-cream-d5908a355fb7df258da1.js",
       "path---en-review-the-skin-house-wrinkle-snail-system-cream-d5908a355fb7df258da1.js.map"
     ],
     "path---en-beauty": [
-      "path---en-beauty-7b36b4fb3af6257195c3.js",
-      "path---en-beauty-7b36b4fb3af6257195c3.js.map"
+      "path---en-beauty-66b6590502939ff9499d.js",
+      "path---en-beauty-66b6590502939ff9499d.js.map"
     ],
     "path---en-korea-travel-tidal-island-jebudo": [
       "path---en-korea-travel-tidal-island-jebudo-8603a1281b666fd2505b.js",
@@ -277,8 +297,8 @@
       "path---en-korean-cuisine-part-1-188a2810011b03536992.js.map"
     ],
     "path---vi-japan": [
-      "path---vi-japan-96ea49f551ade5d65929.js",
-      "path---vi-japan-96ea49f551ade5d65929.js.map"
+      "path---vi-japan-4c6d229ae554f7a86a5c.js",
+      "path---vi-japan-4c6d229ae554f7a86a5c.js.map"
     ],
     "component---src-pages-index-vi-js": [
       "component---src-pages-index-vi-js-cbcfcc6f1cc3bfa0f43b.js",
@@ -296,6 +316,10 @@
       "path---en-kinh-nghiem-du-lich-c3d72a68516270b6106f.js",
       "path---en-kinh-nghiem-du-lich-c3d72a68516270b6106f.js.map"
     ],
+    "path---vi-sua-rua-mat": [
+      "path---vi-sua-rua-mat-3ccd012a39b4cb388433.js",
+      "path---vi-sua-rua-mat-3ccd012a39b4cb388433.js.map"
+    ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-4f5ba3d05fd15a247060.js",
       "component---src-layouts-index-js-4f5ba3d05fd15a247060.js.map"
@@ -305,8 +329,8 @@
       "path---en-korea-travel-famous-theme-park-everland-3f7f2a01466b13a4cea4.js.map"
     ],
     "path---en-hong-kong-cuisine": [
-      "path---en-hong-kong-cuisine-c1c035aae10258c3bab7.js",
-      "path---en-hong-kong-cuisine-c1c035aae10258c3bab7.js.map"
+      "path---en-hong-kong-cuisine-2c605b43ba29a0aa9190.js",
+      "path---en-hong-kong-cuisine-2c605b43ba29a0aa9190.js.map"
     ],
     "path---vi-checklist": [
       "path---vi-checklist-a3cfddcccaf10709a01f.js",
@@ -317,8 +341,8 @@
       "path---vi-lam-dep-725a01379cd1ee3efcda.js.map"
     ],
     "path---vi-innisfree": [
-      "path---vi-innisfree-8f995db5eb7b0c6bbdfb.js",
-      "path---vi-innisfree-8f995db5eb7b0c6bbdfb.js.map"
+      "path---vi-innisfree-adff5e7f635840072e44.js",
+      "path---vi-innisfree-adff5e7f635840072e44.js.map"
     ],
     "path---vi-kinh-nghiem-du-lich": [
       "path---vi-kinh-nghiem-du-lich-e4c244d2ac76ec943eb1.js",
@@ -369,12 +393,16 @@
       "path---vi-pregnant-f42aa121eeea092fc8b7.js.map"
     ],
     "path---vi-hong-kong-cuisine": [
-      "path---vi-hong-kong-cuisine-e673f0ac623890a028e7.js",
-      "path---vi-hong-kong-cuisine-e673f0ac623890a028e7.js.map"
+      "path---vi-hong-kong-cuisine-96fb583a02ddf0f3d239.js",
+      "path---vi-hong-kong-cuisine-96fb583a02ddf0f3d239.js.map"
+    ],
+    "path---en-sua-rua-mat": [
+      "path---en-sua-rua-mat-32d204831319d0a8c515.js",
+      "path---en-sua-rua-mat-32d204831319d0a8c515.js.map"
     ],
     "path---vi-japan-travel-nara-deer-park": [
-      "path---vi-japan-travel-nara-deer-park-208b5c835334ab11464f.js",
-      "path---vi-japan-travel-nara-deer-park-208b5c835334ab11464f.js.map"
+      "path---vi-japan-travel-nara-deer-park-c9670b2c6838aa124c9c.js",
+      "path---vi-japan-travel-nara-deer-park-c9670b2c6838aa124c9c.js.map"
     ],
     "path---vi-sample": [
       "path---vi-sample-ccdc834a3e1f27e276e6.js",
@@ -401,8 +429,8 @@
       "path---en-vietnam-af085d3509cebb6857e0.js.map"
     ],
     "path---en-japan-travel-fushimi-inari-taisha-the-head-shrine-of-inari-kyoto": [
-      "path---en-japan-travel-fushimi-inari-taisha-the-head-shrine-of-inari-kyoto-0c70efe957fb102111d7.js",
-      "path---en-japan-travel-fushimi-inari-taisha-the-head-shrine-of-inari-kyoto-0c70efe957fb102111d7.js.map"
+      "path---en-japan-travel-fushimi-inari-taisha-the-head-shrine-of-inari-kyoto-b34a930deb4cc9331958.js",
+      "path---en-japan-travel-fushimi-inari-taisha-the-head-shrine-of-inari-kyoto-b34a930deb4cc9331958.js.map"
     ],
     "path---vi-japanese-cuisine-part-1": [
       "path---vi-japanese-cuisine-part-1-dddbb4b285fd3d192e08.js",
@@ -467,8 +495,8 @@
       "path---vi-mon-ngon-3b862885d9680773c467.js.map"
     ],
     "path---vi-pregnancy-checklist-part-1": [
-      "path---vi-pregnancy-checklist-part-1-dc64d818e62e94aadd69.js",
-      "path---vi-pregnancy-checklist-part-1-dc64d818e62e94aadd69.js.map"
+      "path---vi-pregnancy-checklist-part-1-b4af808ba354a2c63e44.js",
+      "path---vi-pregnancy-checklist-part-1-b4af808ba354a2c63e44.js.map"
     ],
     "path---vi-island": [
       "path---vi-island-84d170b0f3aaa54a1bd6.js",
@@ -483,24 +511,24 @@
       "path---en-korea-travel-gyeongbok-palace-8af25625c1e755d4f46e.js.map"
     ],
     "path---en-bangkok-trip-part-1": [
-      "path---en-bangkok-trip-part-1-c56470f43d6c1a32abbd.js",
-      "path---en-bangkok-trip-part-1-c56470f43d6c1a32abbd.js.map"
+      "path---en-bangkok-trip-part-1-6a55ed9278bad3bc7bb3.js",
+      "path---en-bangkok-trip-part-1-6a55ed9278bad3bc7bb3.js.map"
     ],
     "path---en-hongkong": [
       "path---en-hongkong-96e6cb3dbb7dd2ccd34b.js",
       "path---en-hongkong-96e6cb3dbb7dd2ccd34b.js.map"
     ],
     "path---vi-pregnancy-checklist-part-2": [
-      "path---vi-pregnancy-checklist-part-2-8c4dfd988fe8cd0b0491.js",
-      "path---vi-pregnancy-checklist-part-2-8c4dfd988fe8cd0b0491.js.map"
+      "path---vi-pregnancy-checklist-part-2-3e85a6e214c73f4a66f4.js",
+      "path---vi-pregnancy-checklist-part-2-3e85a6e214c73f4a66f4.js.map"
     ],
     "path---en-pregnancy-checklist-part-1": [
-      "path---en-pregnancy-checklist-part-1-65943d6b1c15e653a08d.js",
-      "path---en-pregnancy-checklist-part-1-65943d6b1c15e653a08d.js.map"
+      "path---en-pregnancy-checklist-part-1-bc6d2f988d844b0dccee.js",
+      "path---en-pregnancy-checklist-part-1-bc6d2f988d844b0dccee.js.map"
     ],
     "path---en-bangkok-trip-part-2": [
-      "path---en-bangkok-trip-part-2-973d2d9e187ee9fdb8f1.js",
-      "path---en-bangkok-trip-part-2-973d2d9e187ee9fdb8f1.js.map"
+      "path---en-bangkok-trip-part-2-b39e481ce6361ab5cd90.js",
+      "path---en-bangkok-trip-part-2-b39e481ce6361ab5cd90.js.map"
     ],
     "path---en-pregnant": [
       "path---en-pregnant-f33233c8418d34c15495.js",
@@ -511,12 +539,12 @@
       "path---en-traveling-tips-7447ed86b2fa65ace75c.js.map"
     ],
     "path---vi-bangkok-trip-part-1": [
-      "path---vi-bangkok-trip-part-1-c1195977cb7f6591cb09.js",
-      "path---vi-bangkok-trip-part-1-c1195977cb7f6591cb09.js.map"
+      "path---vi-bangkok-trip-part-1-6783edfc2b7cc2e4ba52.js",
+      "path---vi-bangkok-trip-part-1-6783edfc2b7cc2e4ba52.js.map"
     ],
     "path---vi-du-lich": [
-      "path---vi-du-lich-e6edb962763a73bcabee.js",
-      "path---vi-du-lich-e6edb962763a73bcabee.js.map"
+      "path---vi-du-lich-f257c38e581c4b56d775.js",
+      "path---vi-du-lich-f257c38e581c4b56d775.js.map"
     ],
     "path---en-duong-moi": [
       "path---en-duong-moi-7fa40335b974091e15db.js",
@@ -526,9 +554,13 @@
       "component---src-templates-post-js-660edd104f07d71b1d83.js",
       "component---src-templates-post-js-660edd104f07d71b1d83.js.map"
     ],
+    "path---en-may-rua-mat": [
+      "path---en-may-rua-mat-68d7555cd1db2ebdfbb8.js",
+      "path---en-may-rua-mat-68d7555cd1db2ebdfbb8.js.map"
+    ],
     "path---en-kyoto": [
-      "path---en-kyoto-8d78b0f4ce74b9470691.js",
-      "path---en-kyoto-8d78b0f4ce74b9470691.js.map"
+      "path---en-kyoto-d0660f30c79b890d4bec.js",
+      "path---en-kyoto-d0660f30c79b890d4bec.js.map"
     ],
     "path---vi-mang-thai": [
       "path---vi-mang-thai-05edb745799f5341ebbc.js",
@@ -543,16 +575,20 @@
       "path---vi-tay-da-chet-41ac62489524473a1d23.js.map"
     ],
     "path---vi-kyoto": [
-      "path---vi-kyoto-666d79eb371b0b36fd03.js",
-      "path---vi-kyoto-666d79eb371b0b36fd03.js.map"
+      "path---vi-kyoto-99e654f2dac2ea97a949.js",
+      "path---vi-kyoto-99e654f2dac2ea97a949.js.map"
     ],
     "path---en-my-pham": [
       "path---en-my-pham-725f2a86841aea585dcb.js",
       "path---en-my-pham-725f2a86841aea585dcb.js.map"
     ],
+    "path---en-facial-brush": [
+      "path---en-facial-brush-a7f382cb71d65414eb81.js",
+      "path---en-facial-brush-a7f382cb71d65414eb81.js.map"
+    ],
     "path---en-nhat-ban": [
-      "path---en-nhat-ban-3a2a972623041e254c8f.js",
-      "path---en-nhat-ban-3a2a972623041e254c8f.js.map"
+      "path---en-nhat-ban-6a922944ed57b920e9a1.js",
+      "path---en-nhat-ban-6a922944ed57b920e9a1.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -563,12 +599,12 @@
       "path---en-laneige-b274442271b4cc22d2ad.js.map"
     ],
     "path---vi-hong-kong-travel": [
-      "path---vi-hong-kong-travel-d30dbd6cadeb16579b40.js",
-      "path---vi-hong-kong-travel-d30dbd6cadeb16579b40.js.map"
+      "path---vi-hong-kong-travel-c5b45d6b662f2e7fa1f6.js",
+      "path---vi-hong-kong-travel-c5b45d6b662f2e7fa1f6.js.map"
     ],
     "path---en-place-to-go": [
-      "path---en-place-to-go-733758791c39ac8ca9a2.js",
-      "path---en-place-to-go-733758791c39ac8ca9a2.js.map"
+      "path---en-place-to-go-9b6ade91add87bf4d0f5.js",
+      "path---en-place-to-go-9b6ade91add87bf4d0f5.js.map"
     ],
     "path---vi-mat-na-ngu": [
       "path---vi-mat-na-ngu-8a23d5ffe5a7b56177b8.js",
@@ -591,25 +627,29 @@
       "path---vi-my-pham-01055a4411d7bc7c24d8.js.map"
     ],
     "path---en-hong-kong-traveling-tips": [
-      "path---en-hong-kong-traveling-tips-f2421fcfab5f90e74edd.js",
-      "path---en-hong-kong-traveling-tips-f2421fcfab5f90e74edd.js.map"
+      "path---en-hong-kong-traveling-tips-7d3f0d6eda7cc53bfcba.js",
+      "path---en-hong-kong-traveling-tips-7d3f0d6eda7cc53bfcba.js.map"
     ],
     "path---en-checklist": [
       "path---en-checklist-332e066e908854c55a5a.js",
       "path---en-checklist-332e066e908854c55a5a.js.map"
+    ],
+    "path---vi-cleanser": [
+      "path---vi-cleanser-fda4f41368cb9590b75e.js",
+      "path---vi-cleanser-fda4f41368cb9590b75e.js.map"
     ],
     "path---en-chuan-bi-do": [
       "path---en-chuan-bi-do-8a17301b4ecb91f8e704.js",
       "path---en-chuan-bi-do-8a17301b4ecb91f8e704.js.map"
     ],
     "path---en-hong-kong-travel": [
-      "path---en-hong-kong-travel-df16330079a5110b4dec.js",
-      "path---en-hong-kong-travel-df16330079a5110b4dec.js.map"
+      "path---en-hong-kong-travel-4d8bb2ecee537eda5e69.js",
+      "path---en-hong-kong-travel-4d8bb2ecee537eda5e69.js.map"
     ],
     "app": [
-      "app-b0a197b3427b9449a556.js",
+      "app-7a497506dfb508705390.js",
       "build-js-styles.css",
-      "app-b0a197b3427b9449a556.js.map",
+      "app-7a497506dfb508705390.js.map",
       "build-js-styles.css.map"
     ],
     "path---vi-japanese-cuisine-part-2": [
@@ -629,8 +669,8 @@
       "path---en-review-laneige-lip-sleeping-mask-3769d6872b95c2393ce7.js.map"
     ],
     "path---en-innisfree": [
-      "path---en-innisfree-d9e76766b7033e7bf5b9.js",
-      "path---en-innisfree-d9e76766b7033e7bf5b9.js.map"
+      "path---en-innisfree-3ce848a89e388d9ffd3d.js",
+      "path---en-innisfree-3ce848a89e388d9ffd3d.js.map"
     ],
     "path---en-be-yeu": [
       "path---en-be-yeu-ed111f209946b989e7f4.js",
@@ -665,8 +705,8 @@
       "path---vi-75993b89a3e2ad0f21c6.js.map"
     ],
     "path---vi-beauty": [
-      "path---vi-beauty-2e1562a15707d275a660.js",
-      "path---vi-beauty-2e1562a15707d275a660.js.map"
+      "path---vi-beauty-ea51cc2a2bde3273908d.js",
+      "path---vi-beauty-ea51cc2a2bde3273908d.js.map"
     ],
     "path---en": [
       "path---en-cb7552daa6da55e7c330.js",
@@ -701,8 +741,8 @@
       "path---vi-korean-2b96a43b4a7c9f9974d3.js.map"
     ],
     "path---en-japanese-cuisine-part-1": [
-      "path---en-japanese-cuisine-part-1-7d9c2b600204a0819b58.js",
-      "path---en-japanese-cuisine-part-1-7d9c2b600204a0819b58.js.map"
+      "path---en-japanese-cuisine-part-1-c945d36f12992eac3db3.js",
+      "path---en-japanese-cuisine-part-1-c945d36f12992eac3db3.js.map"
     ],
     "path---vi-hongkong": [
       "path---vi-hongkong-059318488402cc577e32.js",
@@ -713,8 +753,8 @@
       "path---vi-review-iope-moisture-skin-soft-peeling-gel-dfd995ec73ead12eb0dc.js.map"
     ],
     "path---vi-japan-travel-fushimi-inari-taisha-the-head-shrine-of-inari-kyoto": [
-      "path---vi-japan-travel-fushimi-inari-taisha-the-head-shrine-of-inari-kyoto-40a215075dd108a5b2eb.js",
-      "path---vi-japan-travel-fushimi-inari-taisha-the-head-shrine-of-inari-kyoto-40a215075dd108a5b2eb.js.map"
+      "path---vi-japan-travel-fushimi-inari-taisha-the-head-shrine-of-inari-kyoto-9c57e0f66a13ab81ddd5.js",
+      "path---vi-japan-travel-fushimi-inari-taisha-the-head-shrine-of-inari-kyoto-9c57e0f66a13ab81ddd5.js.map"
     ],
     "path---vi-chuan-bi-do": [
       "path---vi-chuan-bi-do-116043271a6be20f03e8.js",
@@ -729,8 +769,8 @@
       "path---en-korea-travel-geoje-island-8634f7a196a190cd9009.js.map"
     ],
     "path---vi-bangkok-trip-part-2": [
-      "path---vi-bangkok-trip-part-2-1a8bfb46a2083f920a9a.js",
-      "path---vi-bangkok-trip-part-2-1a8bfb46a2083f920a9a.js.map"
+      "path---vi-bangkok-trip-part-2-ab6ff2ac25f442282477.js",
+      "path---vi-bangkok-trip-part-2-ab6ff2ac25f442282477.js.map"
     ],
     "path---vi-trang-diem": [
       "path---vi-trang-diem-0eb7a0c5b47f13ff035b.js",

@@ -10,8 +10,6 @@
 <url> <loc>https://aquabubu.com/en/Japan-travel-Nara-Deer-Park/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/Introducing-Gatsby-Material-Starter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/Japan-travel-Nara-Deer-Park/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://aquabubu.com/en/Japan-travel-Fushimi Inari-taisha-the-head-shrine-of-Inari-Kyoto/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://aquabubu.com/vi/Japan-travel-Fushimi Inari-taisha-the-head-shrine-of-Inari-Kyoto/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/Korea-travel-Famous-theme-park-Everland/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/Korea-travel-Geoje-island/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/Korea-travel-Geoje-island/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -60,6 +58,10 @@
 <url> <loc>https://aquabubu.com/vi/Hong-Kong-travel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/Japanese-cuisine-Part-2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/Japanese-cuisine-Part-2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/en/Japan-travel-Fushimi-Inari-taisha-the-head-shrine-of-Inari-Kyoto/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/vi/Japan-travel-Fushimi-Inari-taisha-the-head-shrine-of-Inari-Kyoto/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/en/Review-Innisfree-Micro-perfect-brush-and-sea-salt-whipping-cleanser/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/vi/Review-Innisfree-Micro-perfect-brush-and-sea-salt-whipping-cleanser/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/travel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/bangkok/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/place-to-go/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -73,7 +75,6 @@
 <url> <loc>https://aquabubu.com/vi/sample/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/japan/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/nhat-ban/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://aquabubu.com/vi/kyoto/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/korea/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/island/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/han-quoc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -115,6 +116,11 @@
 <url> <loc>https://aquabubu.com/vi/vietnam/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/bun-cha-obama/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/mon-ngon/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/vi/kyoto/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/vi/may-rua-mat/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/vi/sua-rua-mat/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/vi/cleanser/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/vi/facial-brush/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/cuisine/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/hongkong/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/what-to-eat/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -128,7 +134,6 @@
 <url> <loc>https://aquabubu.com/en/sample/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/japan/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/nhat-ban/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://aquabubu.com/en/kyoto/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/korea/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/han-quoc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/island/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -170,10 +175,15 @@
 <url> <loc>https://aquabubu.com/en/vietnam/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/bun-cha-obama/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/mon-ngon/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/en/kyoto/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/en/may-rua-mat/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/en/sua-rua-mat/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/en/cleanser/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/en/facial-brush/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/offline-plugin-app-shell-fallback/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/en/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://aquabubu.com/en/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://aquabubu.com/vi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://aquabubu.com/en/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

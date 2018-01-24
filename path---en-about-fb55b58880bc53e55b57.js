@@ -1,2 +1,2 @@
-webpackJsonp([63962516548452],{1526:function(n,e){n.exports={pathContext:{slug:"/en/about/",langKey:"en"}}}});
+webpackJsonp([63962516548452],{1536:function(n,e){n.exports={pathContext:{slug:"/en/about/",langKey:"en"}}}});
 //# sourceMappingURL=path---en-about-fb55b58880bc53e55b57.js.map
