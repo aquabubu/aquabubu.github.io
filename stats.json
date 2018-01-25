@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---vi-skincare": [
-      "path---vi-skincare-b53d55fc4908477df7d1.js",
-      "path---vi-skincare-b53d55fc4908477df7d1.js.map"
+      "path---vi-skincare-e7c1e6aa4c28346af69e.js",
+      "path---vi-skincare-e7c1e6aa4c28346af69e.js.map"
     ],
     "path---vi-what-to-do": [
       "path---vi-what-to-do-d4a60533f46625d86e5e.js",
@@ -13,8 +13,8 @@
       "path---vi-vietnamese-cuisine-in-the-northern-8c9fc823cd0f59322d19.js.map"
     ],
     "path---vi-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser": [
-      "path---vi-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser-0a05b41404f679791d1d.js",
-      "path---vi-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser-0a05b41404f679791d1d.js.map"
+      "path---vi-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser-97998ab81c8d86d9b7fd.js",
+      "path---vi-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser-97998ab81c8d86d9b7fd.js.map"
     ],
     "path---en-baby": [
       "path---en-baby-1f125cf7c2a58c3081e2.js",
@@ -77,8 +77,8 @@
       "path---en-mon-ngon-dcc13bd29dab9fa1ae23.js.map"
     ],
     "path---vi-facial-brush": [
-      "path---vi-facial-brush-86ac8f1e60b27afb3aa5.js",
-      "path---vi-facial-brush-86ac8f1e60b27afb3aa5.js.map"
+      "path---vi-facial-brush-6d6e07833fd271914e92.js",
+      "path---vi-facial-brush-6d6e07833fd271914e92.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-3943520d4daad738523d.js",
@@ -109,12 +109,12 @@
       "path---vi-bun-cha-obama-6218801d39685675059d.js.map"
     ],
     "path---vi-may-rua-mat": [
-      "path---vi-may-rua-mat-f07582745cb5a866f1e1.js",
-      "path---vi-may-rua-mat-f07582745cb5a866f1e1.js.map"
+      "path---vi-may-rua-mat-28e4e05652adaa87b92b.js",
+      "path---vi-may-rua-mat-28e4e05652adaa87b92b.js.map"
     ],
     "path---en-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser": [
-      "path---en-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser-ea375d822f8d1155892a.js",
-      "path---en-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser-ea375d822f8d1155892a.js.map"
+      "path---en-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser-eed2e8ad34daaac9d863.js",
+      "path---en-review-innisfree-micro-perfect-brush-and-sea-salt-whipping-cleanser-eed2e8ad34daaac9d863.js.map"
     ],
     "path---en-iope": [
       "path---en-iope-e2e502a7697f4b1cef89.js",
@@ -165,8 +165,8 @@
       "path---en-life-after-birthing-68c6b5a09a76ca7baa43.js.map"
     ],
     "path---en-skincare": [
-      "path---en-skincare-bc60f2af23bd479591f0.js",
-      "path---en-skincare-bc60f2af23bd479591f0.js.map"
+      "path---en-skincare-74c5a296723e538efa25.js",
+      "path---en-skincare-74c5a296723e538efa25.js.map"
     ],
     "path---": [
       "path----57eca46ca606bd242226.js",
@@ -225,8 +225,8 @@
       "path---vi-travel-486e5cbb0325652a7ccc.js.map"
     ],
     "path---en-cleanser": [
-      "path---en-cleanser-06704be0788545f2255a.js",
-      "path---en-cleanser-06704be0788545f2255a.js.map"
+      "path---en-cleanser-90d839f2c11a235f8e2d.js",
+      "path---en-cleanser-90d839f2c11a235f8e2d.js.map"
     ],
     "path---en-toner": [
       "path---en-toner-032c4c484fd670377568.js",
@@ -285,8 +285,8 @@
       "path---en-review-the-skin-house-wrinkle-snail-system-cream-d5908a355fb7df258da1.js.map"
     ],
     "path---en-beauty": [
-      "path---en-beauty-3dda201ccdeb8e006af6.js",
-      "path---en-beauty-3dda201ccdeb8e006af6.js.map"
+      "path---en-beauty-874d852d46036802161f.js",
+      "path---en-beauty-874d852d46036802161f.js.map"
     ],
     "path---en-korea-travel-tidal-island-jebudo": [
       "path---en-korea-travel-tidal-island-jebudo-8603a1281b666fd2505b.js",
@@ -317,8 +317,8 @@
       "path---en-kinh-nghiem-du-lich-c3d72a68516270b6106f.js.map"
     ],
     "path---vi-sua-rua-mat": [
-      "path---vi-sua-rua-mat-d7f49e6eedc8a45cf7f1.js",
-      "path---vi-sua-rua-mat-d7f49e6eedc8a45cf7f1.js.map"
+      "path---vi-sua-rua-mat-478152db247fba7cb369.js",
+      "path---vi-sua-rua-mat-478152db247fba7cb369.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-4f5ba3d05fd15a247060.js",
@@ -341,8 +341,8 @@
       "path---vi-lam-dep-725a01379cd1ee3efcda.js.map"
     ],
     "path---vi-innisfree": [
-      "path---vi-innisfree-2c8c7fbd4f4fd740e72a.js",
-      "path---vi-innisfree-2c8c7fbd4f4fd740e72a.js.map"
+      "path---vi-innisfree-7c9dfecfca32127bc8f9.js",
+      "path---vi-innisfree-7c9dfecfca32127bc8f9.js.map"
     ],
     "path---vi-kinh-nghiem-du-lich": [
       "path---vi-kinh-nghiem-du-lich-e4c244d2ac76ec943eb1.js",
@@ -397,8 +397,8 @@
       "path---vi-hong-kong-cuisine-96fb583a02ddf0f3d239.js.map"
     ],
     "path---en-sua-rua-mat": [
-      "path---en-sua-rua-mat-f2ef8202771574871bc4.js",
-      "path---en-sua-rua-mat-f2ef8202771574871bc4.js.map"
+      "path---en-sua-rua-mat-1ab6c2641b6304dde8d6.js",
+      "path---en-sua-rua-mat-1ab6c2641b6304dde8d6.js.map"
     ],
     "path---vi-japan-travel-nara-deer-park": [
       "path---vi-japan-travel-nara-deer-park-c9670b2c6838aa124c9c.js",
@@ -555,8 +555,8 @@
       "component---src-templates-post-js-660edd104f07d71b1d83.js.map"
     ],
     "path---en-may-rua-mat": [
-      "path---en-may-rua-mat-76884a9d41c0c4389f5b.js",
-      "path---en-may-rua-mat-76884a9d41c0c4389f5b.js.map"
+      "path---en-may-rua-mat-ec8f622c0131667e61f5.js",
+      "path---en-may-rua-mat-ec8f622c0131667e61f5.js.map"
     ],
     "path---en-kyoto": [
       "path---en-kyoto-d0660f30c79b890d4bec.js",
@@ -583,8 +583,8 @@
       "path---en-my-pham-725f2a86841aea585dcb.js.map"
     ],
     "path---en-facial-brush": [
-      "path---en-facial-brush-610ed8df7e040fd1963a.js",
-      "path---en-facial-brush-610ed8df7e040fd1963a.js.map"
+      "path---en-facial-brush-6a245528a814a96fe97b.js",
+      "path---en-facial-brush-6a245528a814a96fe97b.js.map"
     ],
     "path---en-nhat-ban": [
       "path---en-nhat-ban-6a922944ed57b920e9a1.js",
@@ -635,8 +635,8 @@
       "path---en-checklist-332e066e908854c55a5a.js.map"
     ],
     "path---vi-cleanser": [
-      "path---vi-cleanser-4437723a3e06df282da8.js",
-      "path---vi-cleanser-4437723a3e06df282da8.js.map"
+      "path---vi-cleanser-37df3fb80111ab4dbc3d.js",
+      "path---vi-cleanser-37df3fb80111ab4dbc3d.js.map"
     ],
     "path---en-chuan-bi-do": [
       "path---en-chuan-bi-do-8a17301b4ecb91f8e704.js",
@@ -647,9 +647,9 @@
       "path---en-hong-kong-travel-4d8bb2ecee537eda5e69.js.map"
     ],
     "app": [
-      "app-3d7096e0283d705b83c0.js",
+      "app-cb2fed14ee7d7050b8dc.js",
       "build-js-styles.css",
-      "app-3d7096e0283d705b83c0.js.map",
+      "app-cb2fed14ee7d7050b8dc.js.map",
       "build-js-styles.css.map"
     ],
     "path---vi-japanese-cuisine-part-2": [
@@ -669,8 +669,8 @@
       "path---en-review-laneige-lip-sleeping-mask-3769d6872b95c2393ce7.js.map"
     ],
     "path---en-innisfree": [
-      "path---en-innisfree-a59fac47b3d2ea84b1d0.js",
-      "path---en-innisfree-a59fac47b3d2ea84b1d0.js.map"
+      "path---en-innisfree-00540d48346a59482ced.js",
+      "path---en-innisfree-00540d48346a59482ced.js.map"
     ],
     "path---en-be-yeu": [
       "path---en-be-yeu-ed111f209946b989e7f4.js",
@@ -705,8 +705,8 @@
       "path---vi-75993b89a3e2ad0f21c6.js.map"
     ],
     "path---vi-beauty": [
-      "path---vi-beauty-5f794b2f8409262c2e72.js",
-      "path---vi-beauty-5f794b2f8409262c2e72.js.map"
+      "path---vi-beauty-879096e3cbc2fa22fe9e.js",
+      "path---vi-beauty-879096e3cbc2fa22fe9e.js.map"
     ],
     "path---en": [
       "path---en-cb7552daa6da55e7c330.js",
