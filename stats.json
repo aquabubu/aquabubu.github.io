@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---vi-skincare": [
-      "path---vi-skincare-e7c1e6aa4c28346af69e.js",
-      "path---vi-skincare-e7c1e6aa4c28346af69e.js.map"
+      "path---vi-skincare-6e7852e3002a86e4312d.js",
+      "path---vi-skincare-6e7852e3002a86e4312d.js.map"
     ],
     "path---vi-what-to-do": [
       "path---vi-what-to-do-d4a60533f46625d86e5e.js",
@@ -37,8 +37,8 @@
       "path---vi-be-yeu-47a0053cbee2ac2242db.js.map"
     ],
     "path---vi-peeling": [
-      "path---vi-peeling-0317ac3de6791a385ae5.js",
-      "path---vi-peeling-0317ac3de6791a385ae5.js.map"
+      "path---vi-peeling-b3523547de5a3476d33c.js",
+      "path---vi-peeling-b3523547de5a3476d33c.js.map"
     ],
     "path---vi-what-to-eat": [
       "path---vi-what-to-eat-ad7edd829292b89884fa.js",
@@ -53,8 +53,8 @@
       "path---vi-place-to-go-d2fc7b04b1298c4608d3.js.map"
     ],
     "path---vi-duong-da": [
-      "path---vi-duong-da-9d7d19603019b1461920.js",
-      "path---vi-duong-da-9d7d19603019b1461920.js.map"
+      "path---vi-duong-da-7a314d6389d6a43a4824.js",
+      "path---vi-duong-da-7a314d6389d6a43a4824.js.map"
     ],
     "path---en-tinh-chat-duong": [
       "path---en-tinh-chat-duong-ad81c9457b849cf3203d.js",
@@ -136,6 +136,10 @@
       "path---en-japan-6bc67854116bcdbd5cf4.js",
       "path---en-japan-6bc67854116bcdbd5cf4.js.map"
     ],
+    "path---vi-review-innisfree-green-barley-gommage-peeling-mask": [
+      "path---vi-review-innisfree-green-barley-gommage-peeling-mask-2ab13cb9db2e2e847d06.js",
+      "path---vi-review-innisfree-green-barley-gommage-peeling-mask-2ab13cb9db2e2e847d06.js.map"
+    ],
     "path---vi-han-quoc": [
       "path---vi-han-quoc-9da7b5bc1f9c5217d890.js",
       "path---vi-han-quoc-9da7b5bc1f9c5217d890.js.map"
@@ -165,8 +169,8 @@
       "path---en-life-after-birthing-68c6b5a09a76ca7baa43.js.map"
     ],
     "path---en-skincare": [
-      "path---en-skincare-74c5a296723e538efa25.js",
-      "path---en-skincare-74c5a296723e538efa25.js.map"
+      "path---en-skincare-f0e071f5b84ff64ee997.js",
+      "path---en-skincare-f0e071f5b84ff64ee997.js.map"
     ],
     "path---": [
       "path----57eca46ca606bd242226.js",
@@ -285,8 +289,8 @@
       "path---en-review-the-skin-house-wrinkle-snail-system-cream-d5908a355fb7df258da1.js.map"
     ],
     "path---en-beauty": [
-      "path---en-beauty-874d852d46036802161f.js",
-      "path---en-beauty-874d852d46036802161f.js.map"
+      "path---en-beauty-1892019c6647b19048ef.js",
+      "path---en-beauty-1892019c6647b19048ef.js.map"
     ],
     "path---en-korea-travel-tidal-island-jebudo": [
       "path---en-korea-travel-tidal-island-jebudo-8603a1281b666fd2505b.js",
@@ -341,8 +345,8 @@
       "path---vi-lam-dep-725a01379cd1ee3efcda.js.map"
     ],
     "path---vi-innisfree": [
-      "path---vi-innisfree-7c9dfecfca32127bc8f9.js",
-      "path---vi-innisfree-7c9dfecfca32127bc8f9.js.map"
+      "path---vi-innisfree-4c4f8f2fad48499d1dbe.js",
+      "path---vi-innisfree-4c4f8f2fad48499d1dbe.js.map"
     ],
     "path---vi-kinh-nghiem-du-lich": [
       "path---vi-kinh-nghiem-du-lich-e4c244d2ac76ec943eb1.js",
@@ -571,8 +575,8 @@
       "path---vi-korea-travel-gyeongbok-palace-7e9e4d3d1b7ec724f029.js.map"
     ],
     "path---vi-tay-da-chet": [
-      "path---vi-tay-da-chet-41ac62489524473a1d23.js",
-      "path---vi-tay-da-chet-41ac62489524473a1d23.js.map"
+      "path---vi-tay-da-chet-5592255cfb06c76c9b61.js",
+      "path---vi-tay-da-chet-5592255cfb06c76c9b61.js.map"
     ],
     "path---vi-kyoto": [
       "path---vi-kyoto-99e654f2dac2ea97a949.js",
@@ -581,6 +585,10 @@
     "path---en-my-pham": [
       "path---en-my-pham-725f2a86841aea585dcb.js",
       "path---en-my-pham-725f2a86841aea585dcb.js.map"
+    ],
+    "path---en-review-innisfree-green-barley-gommage-peeling-mask": [
+      "path---en-review-innisfree-green-barley-gommage-peeling-mask-f2116c666a519c193376.js",
+      "path---en-review-innisfree-green-barley-gommage-peeling-mask-f2116c666a519c193376.js.map"
     ],
     "path---en-facial-brush": [
       "path---en-facial-brush-6a245528a814a96fe97b.js",
@@ -611,8 +619,8 @@
       "path---vi-mat-na-ngu-8a23d5ffe5a7b56177b8.js.map"
     ],
     "path---en-duong-da": [
-      "path---en-duong-da-3267f182bc5eefc0d101.js",
-      "path---en-duong-da-3267f182bc5eefc0d101.js.map"
+      "path---en-duong-da-4eea7f9a003804a3a419.js",
+      "path---en-duong-da-4eea7f9a003804a3a419.js.map"
     ],
     "path---vi-sample-post": [
       "path---vi-sample-post-dcef82b5aa58e0a3bae8.js",
@@ -647,9 +655,9 @@
       "path---en-hong-kong-travel-4d8bb2ecee537eda5e69.js.map"
     ],
     "app": [
-      "app-cb2fed14ee7d7050b8dc.js",
+      "app-becfdb51f10bdabf162c.js",
       "build-js-styles.css",
-      "app-cb2fed14ee7d7050b8dc.js.map",
+      "app-becfdb51f10bdabf162c.js.map",
       "build-js-styles.css.map"
     ],
     "path---vi-japanese-cuisine-part-2": [
@@ -669,8 +677,8 @@
       "path---en-review-laneige-lip-sleeping-mask-3769d6872b95c2393ce7.js.map"
     ],
     "path---en-innisfree": [
-      "path---en-innisfree-00540d48346a59482ced.js",
-      "path---en-innisfree-00540d48346a59482ced.js.map"
+      "path---en-innisfree-ae08bc9eb75c7d610ae2.js",
+      "path---en-innisfree-ae08bc9eb75c7d610ae2.js.map"
     ],
     "path---en-be-yeu": [
       "path---en-be-yeu-ed111f209946b989e7f4.js",
@@ -705,8 +713,8 @@
       "path---vi-75993b89a3e2ad0f21c6.js.map"
     ],
     "path---vi-beauty": [
-      "path---vi-beauty-879096e3cbc2fa22fe9e.js",
-      "path---vi-beauty-879096e3cbc2fa22fe9e.js.map"
+      "path---vi-beauty-14554dee5cf3ab34b611.js",
+      "path---vi-beauty-14554dee5cf3ab34b611.js.map"
     ],
     "path---en": [
       "path---en-cb7552daa6da55e7c330.js",
@@ -725,16 +733,16 @@
       "path---en-nuoc-hoa-hong-54b62351f8b2d00401e8.js.map"
     ],
     "path---en-peeling": [
-      "path---en-peeling-6e7b75e3ca0ef13e31a1.js",
-      "path---en-peeling-6e7b75e3ca0ef13e31a1.js.map"
+      "path---en-peeling-c5abfd07d1360fddb5b5.js",
+      "path---en-peeling-c5abfd07d1360fddb5b5.js.map"
     ],
     "path---vi-review-la-roche-posay-cicaplast-baume-b-5-soothing-repairing-balm": [
       "path---vi-review-la-roche-posay-cicaplast-baume-b-5-soothing-repairing-balm-a037b96a2ec52b9b34e2.js",
       "path---vi-review-la-roche-posay-cicaplast-baume-b-5-soothing-repairing-balm-a037b96a2ec52b9b34e2.js.map"
     ],
     "path---en-tay-da-chet": [
-      "path---en-tay-da-chet-f7b3125b5e90f9fb485c.js",
-      "path---en-tay-da-chet-f7b3125b5e90f9fb485c.js.map"
+      "path---en-tay-da-chet-fd151cfdd4268d9970c7.js",
+      "path---en-tay-da-chet-fd151cfdd4268d9970c7.js.map"
     ],
     "path---vi-korean": [
       "path---vi-korean-2b96a43b4a7c9f9974d3.js",
